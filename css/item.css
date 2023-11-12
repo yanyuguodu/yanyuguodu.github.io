@@ -1,0 +1,228 @@
+* {
+    padding: 0px;
+    margin: 0px;
+	box-sizing: border-box;
+}
+
+.page-item .item-top {
+	height: 60px;
+	line-height: 60px;
+	box-shadow: 0 5px 5px rgba(0,0,0,.07);
+	font-size: 16px;
+		
+}
+
+.page-item .item-top .top-left{
+	float: left;
+	/* overflow: hidden; */
+	height: 60px;
+	line-height: 60px;
+	
+}
+
+.page-item .item-top .top-left i{
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 300;
+}
+
+.page-item .item-top .top-left div{
+	/* height: 60px;*/
+	position: relative;
+	top: -2px;
+	font-style: normal;
+	font-weight: 300;
+	
+	display:  inline-block;
+}
+
+.page-item .item-top .top-right{
+	float: right;
+	
+}
+
+.item-center{
+	margin-top: 60px;
+}
+
+.item-center .center-left{
+	float: left;
+	width: 40%;
+}
+
+.item-center .center-left img{
+	width: 400px;
+	
+}
+
+.item-center .center-right{
+	float: right;
+	width: 50%;
+}
+
+.item-center .center-right h2{
+	font-size: 35px;
+	font-weight: 400;
+	line-height: 70px;
+}
+.item-center .center-right font{
+	font-size: 20px;
+}
+.item-center .center-right .uyyy{
+	font-size: 18px;
+	color: rgb(183,176,194);
+}
+
+.item-center .center-right .danjia{
+	font-size: 30px;
+	color: rgb(255,61,14);
+	margin-top: 20px;
+}
+
+.item-center .center-right .danjia s{
+	font-size: 25px;
+	color: rgb(183,176,194);
+	
+}
+
+.item-center .center-right .keshu{
+	width:170px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.item-center .center-right .keshu .left213{
+	font-size: 20px;
+	margin-top: 6px;
+}
+
+.item-center .center-right .keshu .keshu1{
+	width: 60px;
+	height: 40px;
+	position: relative;
+	float: right;
+}
+
+.item-center .center-right .keshu .keshu1 a{
+	width: 15px;
+	height: 20px;
+	background-color: rgb(241,241,241);
+
+	text-align: center;
+	border: 1px solid rgb(204,204,204);
+}
+
+.item-center .center-right .keshu  .but11{
+	
+	position: absolute;
+	top: 0;
+	right: 6px;
+}
+
+.item-center .center-right .keshu  .but22{
+	position: absolute;
+	top: 20px;
+	right: 6px;
+}
+.item-center .center-right .keshu .keshu1 input{
+	width: 40px;
+	height: 40px;
+	outline: none;
+	border: 1px solid rgb(204,204,204);
+	font-size: 20px;
+}
+
+/* 秒杀 */
+.item-center .center-right .miaosha{
+	background-color: rgb(255,61,14);
+	color: white;
+}
+
+.item-center .center-right .miaosha{
+	line-height: 60px;
+	margin: 25px 0;
+}
+
+.item-center .center-right .miaosha .left{
+	font-size: 22px;
+	float: left;
+	margin-left: 25px;
+}
+
+.item-center .center-right .miaosha .djs{
+	font-size: 18px;
+	float: right;
+	margin-right: 20px;
+	
+}
+
+.sadfd123132f{
+	background-color: rgba(0,0,0,0.35);
+	padding: 0 3px;
+	
+}
+
+/* 秒杀 */
+
+/* 总计 */
+.item-center .center-right .zj1{
+	font-size: 30px;
+	background-color: rgb(249,249,250);
+	padding: 26px;
+	color: rgb(255,61,14);
+	
+}
+
+.item-center .center-right .zj1 .xiaokuai123{
+	font-size: 18px;
+	margin-bottom: 18px;
+	color: #000000;
+}
+
+.item-center .center-right .zj1 .xiaokuai123 span{
+	float: right;
+	color: rgb(255,61,14);
+}
+
+.item-center .center-right .butto1 input{
+
+	
+	width: 309px;
+	height: 44px;
+	margin-top: 40px;
+	border: none;
+	font-size: 18px;
+	outline: none;
+	 color: white;
+	background-color: #0C9C6E;
+	transition: 0.3s;
+}
+
+.item-center .center-right .butto1 input:hover{
+	background-color: #08763b;
+	 
+	 cursor: pointer;
+}
+
+
+/* 介绍 */
+
+.page-item .item-jeishao{
+	border-top: solid 1px rgb(221,221,221);
+	background-color: rgb(245,245,245);
+	margin: 50px 0;
+	
+}
+
+.page-item .item-jeishao img{
+	display: block;
+	margin: 0 auto;
+	
+}
+
+.page-item .item-jeishao h1{
+	
+	line-height: 150px;
+	font-weight: 300;
+	font-size: 60px;
+}
+	

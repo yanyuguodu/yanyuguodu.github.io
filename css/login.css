@@ -1,0 +1,219 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.login-qianbu{
+	background-color: white;
+	width: 600px;
+	height: 440px;
+	border-radius: 8px;
+	box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+	border-top-right-radius:0;
+	
+	
+}
+body{
+	
+
+}
+.daaaa{
+	position: absolute;
+	display: flex;
+	width: 100%;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+	background-color:#0C9C6E ;
+	text-align: center;
+	
+}
+
+
+
+
+.daaaa .tou img{
+	width: 60px;
+}
+
+.daaaa .tou{
+	margin-top: 20px;
+	margin-bottom: 16px;
+}
+
+.daaaa .tou h3{
+	line-height: 20px;
+	margin-top: 4px;
+	font-weight: 450;
+	font-size: 20px;
+}
+
+.daaaa .denglu-11 input
+
+{
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	height: 40px;
+	margin-bottom: 10px;
+	outline: none;
+	font-size: 16px;
+	
+	
+}
+.daaaa .denglu-11 button{
+	
+	display: block;
+	margin: 0 auto;
+	width: 309px;
+	height: 44px;
+	margin-bottom: 10px;
+	
+	font-size: 18px;
+	 color: white;
+	background-color: #0C9C6E;
+	outline: none;
+	cursor: pointer;
+
+	border:none;
+	background-size: 23px;
+	background-position: center;
+	background-repeat: no-repeat;
+	transition: 0.3s;
+	margin-bottom: 15px;
+}
+
+.daaaa .denglu-11 button:hover{
+	font-size: 18px;
+	 color: black;
+	background-color: white;
+	border: 1px solid rgb(224,224,224);
+}
+
+.daaaa .denglu-11 div a{
+	color: rgb(117,117,117);
+	font-size: 16px;
+}
+
+.daaaa .denglu-11 div a:hover{
+	color: #0C9C6E;
+}
+.daaaa .denglu-11 .qita1{
+	border: none;
+	border-top: 1px solid saddlebrown;
+	color: rgb(117,117,117);
+	width: 300px;
+	margin:  0 auto;
+	margin-top: 20px;
+}
+
+.daaaa .denglu-11 .qita1 i{
+	line-height: 60px;
+	font-size: 30px;
+	margin-left: 10px;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.daaaa .denglu-11 .qita1 i:hover{
+	color: #0C9C6E;
+
+}
+
+
+.daaaa .login-qianbu{
+	position: relative;
+}
+
+
+.daaaa .zhanghao{
+	
+	height: 400px;
+	display: block;
+	
+}
+
+.daaaa .denglu-11{
+	text-align: center;
+}
+
+
+.shaoma{
+	height: 400px;
+	display: none;
+	
+
+}
+
+.shaoma h3{
+	margin: 40px 0;
+	text-align: left;
+	padding-left: 50px;
+	margin-bottom: 70px;
+	font-size: 20px;
+}
+
+.shaoma img{
+	width: 230px;
+	margin-top: -20px;
+}
+
+.shaoma  .qita2 {
+	border: none;
+	border-top: 1px solid saddlebrown;
+	color: rgb(117,117,117);
+	
+	margin:  0 auto;
+	margin-top: 20px;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.qita2 a{
+	color: rgb(117,117,117);
+	font-size: 16px;
+	line-height: 40px;
+	
+}
+.qita2 a:hover{
+	color: #0C9C6E;
+}
+
+
+.daaaa .dn{
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: block;
+	background-repeat: no-repeat;
+	background-image: url(../img/qhuan.png);
+	background-position: -160px 0;
+	width: 80px;
+	height: 80px;
+}
+
+.daaaa .dn:hover{
+	background-position:  -240px 0;
+	cursor: pointer;
+	
+}
+
+
+.daaaa .rwm{
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: block;
+	
+	width: 80px;
+	height: 80px;
+	background-image: url(../img/qhuan.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+.daaaa .rwm:hover{
+	background-position:  -80px 0;
+	cursor: pointer;
+	
+}
